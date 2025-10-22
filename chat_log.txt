@@ -1,0 +1,9 @@
+[SERVER] Chat server started on localhost:5000
+[SERVER] ('127.0.0.1', 59824) connected.
+[SERVER] ('127.0.0.1', 59824) disconnected.
+[SERVER] ('127.0.0.1', 61777) connected.
+[SERVER] ('127.0.0.1', 61777) disconnected.
+[SERVER] Chat server started on localhost:6932
+[SERVER] Chat server started on localhost:6932
+[SERVER] Chat server started on localhost:6932
+[SERVER] Chat server started on localhost:5000

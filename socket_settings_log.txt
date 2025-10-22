@@ -1,0 +1,24 @@
+[SERVER SETTINGS]
+  Timeout: 5.0s
+  Blocking: False
+  RCVBUF: 4096 bytes
+  SNDBUF: 4096 bytes
+[OK] Server listening on localhost:8800
+[CLIENT SETTINGS]
+  Timeout: 5.0s
+  Blocking: False
+  RCVBUF: 2048 bytes
+  SNDBUF: 2048 bytes
+[ERROR] Connection failed: [WinError 10035] Kilitleyici olmayan bir yuva işlemi hemen tamamlanamadı
+[SERVER SETTINGS]
+  Timeout: 5.0s
+  Blocking: False
+  RECEIVE BUFFER: 4096 bytes
+  SEND BUFFER: 4096 bytes
+[OK] Server listening on localhost:8800
+[CLIENT SETTINGS]
+  Timeout: 5.0s
+  Blocking: False
+  RCVBUF: 2048 bytes
+  SNDBUF: 2048 bytes
+[ERROR] Connection failed: [WinError 10035] Kilitleyici olmayan bir yuva işlemi hemen tamamlanamadı
