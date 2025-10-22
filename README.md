@@ -5,10 +5,7 @@
 This project is an integrated network application that combines 5 different network programming modules into a single, cohesive application. The project demonstrates various network programming concepts including socket programming, time synchronization, error handling, and data integration.
 
 ## Author
-**Zeynep KAN**  
-**Project Date:** 2024  
-**Project Deadline:** 24.10.2025 23:59
-
+**Zeynep KAN** 
 ## Project Structure
 
 The project consists of the following components:
